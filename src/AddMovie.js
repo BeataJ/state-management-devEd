@@ -12,9 +12,9 @@ const AddMovie = () => {
     setPrice(e.target.value);
   }
 
-  addMovie = e => {
-    e.preventDefault();
-  }
+  // addMovie = e => {
+  //   e.preventDefault();
+  // }
 
   return (
     <form>
