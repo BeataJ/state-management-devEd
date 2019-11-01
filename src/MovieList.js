@@ -6,9 +6,9 @@ const MovieList = () => {
 
   return (
     <>
-      {movies.map(movie => (
+      {/* {movies.map(movie => (
         <Movie  name={movie.name} price={movie.price} key={movie.id}/>
-      ))}
+      ))} */}
     </>
   )
 }
